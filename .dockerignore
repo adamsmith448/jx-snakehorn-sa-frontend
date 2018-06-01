@@ -1,3 +1,5 @@
-node_modules
-src
-public
+draft.toml
+charts/
+NOTICE
+LICENSE
+README.md
